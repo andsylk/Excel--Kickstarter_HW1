@@ -1,2 +1,4 @@
 # homework
-Berkeley Bootcamp homework assignments
+Berkeley Bootcamp Homework Assignments
+
+This is the first homework assignment.
